@@ -1,5 +1,5 @@
 
-# Hi, I'm Vishal Kumar Shaw 👋
+# Hi, I'm Vishal Kumar Shaw 
 
 ### IT Governance, Risk & Compliance (GRC) | IT Audit | SOX | ITGC | Cybersecurity | Enterprise AI
 
@@ -11,7 +11,7 @@ My career journey combines extensive IT service delivery and operational managem
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
 ### Tata Consultancy Services (TCS)
 **GRC | July 2026 – Present**
@@ -37,7 +37,7 @@ My career journey combines extensive IT service delivery and operational managem
 
 ---
 
-## 🎯 Professional Expertise
+##  Professional Expertise
 
 - Governance, Risk & Compliance (GRC)
 - IT Audit and IT General Controls (ITGC)
@@ -52,7 +52,7 @@ My career journey combines extensive IT service delivery and operational managem
 
 ---
 
-## 🔐 Cybersecurity & GRC Learning
+## Cybersecurity & GRC Learning
 
 Currently developing practical knowledge in:
 
@@ -70,7 +70,7 @@ Currently developing practical knowledge in:
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 **IT Service Management & Monitoring**
 - ServiceNow
@@ -96,7 +96,7 @@ Currently developing practical knowledge in:
 
 ---
 
-## 📜 Certifications & Professional Credentials
+## Certifications & Professional Credentials
 
 ### Google Cloud & Generative AI
 
@@ -121,7 +121,7 @@ Currently developing practical knowledge in:
 
 ---
 
-## 📚 Certifications in Progress
+## Certifications in Progress
 
 **Google Cybersecurity Professional Certificate – Google / Coursera**
 
@@ -140,7 +140,7 @@ Currently pursuing the programme to strengthen my knowledge of:
 
 ---
 
-## 📂 Cybersecurity Portfolio Projects
+##  Cybersecurity Portfolio Projects
 
 I am building practical projects to demonstrate my knowledge and capabilities in IT Audit, GRC and Cybersecurity.
 
@@ -158,7 +158,7 @@ Project documentation, sample datasets, testing procedures, findings and recomme
 
 ---
 
-## 🚀 Professional Development Goals
+## Professional Development Goals
 
 - Strengthen expertise in IT Governance, Risk & Compliance.
 - Develop practical IT Audit and SOX testing capabilities.
@@ -169,7 +169,7 @@ Project documentation, sample datasets, testing procedures, findings and recomme
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 - **LinkedIn:** [Vishal Kumar Shaw](https://www.linkedin.com/in/vishal-shaw-564090202/)
 - **GitHub:** [Vishalovi](https://github.com/Vishalovi)
