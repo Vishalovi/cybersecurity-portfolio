@@ -1,96 +1,156 @@
 # Botium Toys – Executive Audit Summary
 
-## 1. Executive Summary
+## 1. Executive Overview
 
-This independent educational case study evaluates the security control environment of Botium Toys, a fictional retail organisation.
+This educational security assessment evaluates the cybersecurity controls, information security risks, and selected compliance considerations of the fictional organisation Botium Toys.
 
-The assessment identifies weaknesses in access management, payment data protection, authentication, security monitoring, and business continuity.
+The objective is to identify weaknesses in the existing security environment, assess potential risks to organisational assets, and recommend improvements to strengthen the confidentiality, integrity, and availability of information.
 
-The initial risk assessment indicates a high-risk environment, with an overall preliminary risk score of 8/10.
+The assessment covers 14 security controls and selected compliance considerations associated with PCI DSS, GDPR, and SOC reporting.
 
-## 2. Assessment Scope
+## 2. Scope of Assessment
 
-The assessment considered:
+The assessment covers:
 
-- Employee devices and endpoints.
-- Internal networks and infrastructure.
-- Business applications and databases.
-- Customer and payment card information.
-- Data storage and retention.
-- Physical security.
-- Backup and disaster recovery arrangements.
+- User access management and least privilege.
+- Password policies and authentication.
+- Separation of duties.
+- Firewall and intrusion detection.
+- Antivirus protection.
+- Data encryption and payment card protection.
+- Data backup and disaster recovery.
+- Legacy system maintenance.
+- Physical security controls.
+- PCI DSS, GDPR, and SOC-related security considerations.
 
-## 3. Assessment Results
+## 3. Security Controls Assessment Results
 
-A total of 14 security controls were reviewed.
+A total of 14 security controls were evaluated.
 
-| Assessment Status | Number of Controls |
+| Control Status | Number | Percentage |
+|---|---:|---:|
+| Fully Implemented | 5 | 35.71% |
+| Partially Implemented | 1 | 7.14% |
+| Not Implemented | 8 | 57.14% |
+| **Total** | **14** | **100%** |
+
+### Course Checklist Result
+
+The original course checklist uses binary Yes/No responses.
+
+| Checklist Response | Number |
 |---|---:|
-| Implemented | 5 |
-| Partially Implemented | 2 |
-| Not Implemented | 7 |
+| Yes | 6 |
+| No | 8 |
 | **Total** | **14** |
 
-## 4. Key Findings
+The partially implemented legacy system maintenance control is counted as Yes in the course checklist because monitoring and maintenance activities exist. However, its implementation is deficient because maintenance is irregular and procedures are unclear.
 
-| Finding | Risk Priority |
-|---|---|
-| Excessive access to sensitive information | Critical |
-| Unencrypted payment card information | Critical |
-| Absence of regular critical-data backups | Critical |
-| Lack of segregation of duties | High |
-| Weak password requirements | High |
-| No centralised password management | High |
-| No intrusion detection system | High |
-| No documented disaster recovery plan | High |
-| Irregular legacy system maintenance | High |
+Therefore, the binary checklist result and the detailed implementation status are two different views of the same assessment.
 
-## 5. Compliance Considerations
+## 4. Key Security Findings
 
-The assessment considered relevant security objectives from:
+### Finding 1 – Excessive User Access
 
-- PCI DSS – Payment card data protection.
-- GDPR – Personal data protection and privacy.
-- SOC 1 – Controls relevant to user entities' internal control over financial reporting.
-- SOC 2 – Applicable Trust Services Criteria.
+Employees have access to internally stored information without adequate restrictions based on their business responsibilities.
 
-The identified weaknesses indicate areas requiring further assessment. No formal compliance or assurance conclusion is made.
+**Risk:** Unauthorised access to confidential and sensitive information.
 
-## 6. Priority Recommendations
+### Finding 2 – Inadequate Payment Data Protection
 
-1. Implement role-based access control and least privilege.
-2. Strengthen payment card data protection and encryption.
-3. Establish regular backups and disaster recovery arrangements.
-4. Implement segregation of duties and independent approvals.
-5. Strengthen authentication and credential management.
-6. Improve security monitoring and intrusion detection.
-7. Establish scheduled legacy system maintenance.
-8. Conduct periodic control testing and access reviews.
+Customer payment card information is not encrypted, and access restrictions are inadequate.
 
-## 7. Proposed Remediation Timeline
+**Risk:** Exposure or unauthorised disclosure of sensitive financial information.
 
-| Period | Focus |
-|---|---|
-| 0–30 days | Address critical risks and restrict sensitive access |
-| 31–60 days | Strengthen authentication, access governance and recovery controls |
-| 61–90 days | Improve monitoring and validate remediation |
+### Finding 3 – Weak Authentication Controls
 
-These are proposed educational timelines, not agreed management commitments.
+Password requirements are nominal, and a centralised password management system is absent.
 
-## 8. Audit Conclusion
+**Risk:** Increased likelihood of account compromise and unauthorised access.
 
-The assessment demonstrates the importance of a risk-based approach to cybersecurity and internal control evaluation.
+### Finding 4 – Missing Backup and Disaster Recovery Arrangements
 
-Management should prioritise critical vulnerabilities, assign accountable control owners, retain remediation evidence, and establish periodic monitoring.
+Regular backup arrangements and a documented disaster recovery plan are absent.
 
-## 9. Methodology and Limitations
+**Risk:** Data loss, extended downtime, and disruption to business operations.
 
-This assessment is based on an educational case study and the information provided about the fictional organisation.
+### Finding 5 – Insufficient Security Detection
 
-No independent audit evidence was inspected. No control walkthroughs, sample testing, operating effectiveness testing, or formal compliance assessments were performed.
+An intrusion detection system is not currently deployed.
 
-Accordingly, this document represents a preliminary educational assessment rather than a professional audit opinion.
+**Risk:** Delayed detection of suspicious activities and potential security incidents.
 
-## 10. Disclaimer
+### Finding 6 – Inadequate Legacy System Maintenance
 
-This is an independent educational portfolio project. Botium Toys is fictional. The project does not represent an actual client engagement or formal assurance report.
+Legacy systems receive monitoring and maintenance, but activities are irregular and procedures are not clearly documented.
+
+**Risk:** Increased exposure to vulnerabilities and operational disruptions.
+
+## 5. Compliance Assessment Summary
+
+The compliance mapping exercise evaluated 12 checklist points across three areas.
+
+| Framework | Yes | No | Total |
+|---|---:|---:|---:|
+| PCI DSS | 0 | 4 | 4 |
+| GDPR | 2 | 2 | 4 |
+| SOC Considerations | 1 | 3 | 4 |
+| **Total** | **3** | **9** | **12** |
+
+### Major Compliance-Related Gaps
+
+- Payment card information is not encrypted.
+- Access to sensitive customer data is not adequately restricted.
+- Password management practices are inadequate.
+- Data classification procedures are not established.
+- User access policies and separation of duties need improvement.
+- Sensitive personal information requires stronger confidentiality controls.
+
+These are preliminary case study observations, not formal compliance determinations.
+
+## 6. Recommended Remediation Priorities
+
+### Priority 1 – Access and Authentication
+
+- Implement least privilege.
+- Establish separation of duties.
+- Strengthen password policies.
+- Introduce centralised password management.
+- Perform periodic user access reviews.
+
+### Priority 2 – Data Protection
+
+- Implement encryption for sensitive financial and customer information.
+- Introduce appropriate data classification.
+- Restrict access to payment card information.
+- Review data handling and privacy procedures.
+
+### Priority 3 – Business Continuity
+
+- Establish regular backup arrangements.
+- Develop a documented disaster recovery plan.
+- Conduct periodic backup restoration tests.
+
+### Priority 4 – Security Monitoring
+
+- Implement an Intrusion Detection System.
+- Strengthen security logging and monitoring.
+- Establish a formal maintenance schedule for legacy systems.
+
+## 7. Conclusion
+
+The assessment identifies significant gaps in Botium Toys' security control environment.
+
+Although certain physical and technical controls are implemented, weaknesses in access management, authentication, encryption, backup and recovery, and security monitoring increase the organisation's exposure to information security risks.
+
+Management should prioritise remediation based on business impact, risk exposure, and regulatory obligations.
+
+Implementing the recommended improvements will help strengthen the organisation's security posture and improve the protection of its information assets.
+
+## 8. Assessment Methodology and Limitations
+
+This assessment is based on a fictional educational case study.
+
+No independent audit evidence collection, control walkthrough, sample testing, technical validation, or operating effectiveness testing was performed.
+
+The findings and recommendations are educational and should not be interpreted as formal audit opinions, legal advice, or independent assurance conclusions.
