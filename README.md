@@ -142,7 +142,25 @@ Currently pursuing the programme to strengthen my knowledge of:
 
 ##  Cybersecurity Portfolio Projects
 
-I am building practical projects to demonstrate my knowledge and capabilities in IT Audit, GRC and Cybersecurity.
+### Featured Project – Botium Toys Security Controls Assessment
+
+**Project Type:** Independent Educational Audit Case Study
+
+**Focus Areas:** Cybersecurity Risk Assessment | Security Controls | PCI DSS | GDPR | SOC 1 | SOC 2
+
+Assessed the security control environment of a fictional retail organisation, identified control gaps, evaluated potential business risks, and developed remediation recommendations.
+
+**Project Deliverables:**
+
+- [Executive Audit Summary](01-cybersecurity/botium-toys-security-audit/audit-summary.md)
+- [Risk Assessment](01-cybersecurity/botium-toys-security-audit/risk-assessment.md)
+- [Security Controls Assessment](01-cybersecurity/botium-toys-security-audit/controls-assessment.md)
+- [Compliance Mapping](01-cybersecurity/botium-toys-security-audit/compliance-mapping.md)
+- [Audit Recommendations and Remediation Plan](01-cybersecurity/botium-toys-security-audit/recommendations.md)
+
+**Key Learning Areas:** Risk-based auditing, control assessment, compliance mapping, audit findings, remediation tracking, and evidence requirements.
+
+*Note: Independent educational simulation based on a fictional organisation. Not a formal audit or compliance assessment.*
 
 ### Planned Projects
 
