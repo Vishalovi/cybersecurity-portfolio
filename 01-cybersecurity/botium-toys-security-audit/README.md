@@ -1,73 +1,121 @@
-# Botium Toys – Security Controls Assessment
+# Hi, I'm Vishal Kumar Shaw
 
-## Project Overview
+### IT Governance, Risk & Compliance (GRC) | IT Audit | SOX | ITGC | Technology Risk | Cybersecurity
 
-This is an independent educational cybersecurity audit case study based on a fictional retail organisation named Botium Toys.
+IT Service Management and Governance professional with **17+ years of experience** across enterprise IT operations, application support, compliance, service delivery and governance.
 
-The objective is to assess the organisation's security controls, identify potential gaps, evaluate risks, and recommend practical remediation measures.
+Currently working in the GRC and IT Audit domain, with a focus on IT General Controls (ITGC), SOX controls, control assessment, audit documentation and process improvement.
 
-## Project Objectives
+This GitHub repository showcases my professional learning, practical assessments and projects related to cybersecurity, IT audit, risk management, compliance and automation.
 
-- Understand the organisation's security environment.
-- Identify key information assets and potential risks.
-- Assess administrative, technical, and physical security controls.
-- Review control gaps against selected compliance requirements.
-- Recommend improvements based on risk and business impact.
+---
 
-## Scope of Assessment
+## Professional Experience
 
-The assessment considers the following areas:
+- **Tata Consultancy Services (TCS)** – IT Governance, Risk & Compliance / IT Audit
+  - IT General Controls (ITGC)
+  - SOX control assessment and testing
+  - Control documentation and evidence review
+  - Risk identification and remediation tracking
 
-- Employee devices and remote-working equipment.
-- Internal network and network security.
-- Business applications and information systems.
-- Customer information and payment card data.
-- Data storage and retention practices.
-- Physical security of business premises.
-- Backup, recovery, and business continuity arrangements.
+- **Tata Consultancy Services (TCS)** – Application Support Project Management
+  - Managed application support operations for a portfolio of 149 business-critical applications.
+  - Led a 20-member support team and coordinated with 40+ technical leads and stakeholders.
+  - Managed service delivery, SLA governance, incident, problem and change management.
+  - Supported process improvement and operational automation initiatives.
 
-## Key Risk Areas
+- **Previous organisations:** Ocwen Financial Solutions, ISGN, Aditya Birla Minacs and SCICOM.
 
-The initial assessment identified potential weaknesses in:
+---
 
-1. User access management and least privilege.
-2. Segregation of duties.
-3. Protection of payment card information.
-4. Password management and authentication.
-5. Intrusion detection and security monitoring.
-6. Backup and disaster recovery.
-7. Legacy system maintenance.
+## Core Areas of Interest
 
-## Assessment Approach
+- IT Governance, Risk & Compliance (GRC)
+- IT Audit and IT General Controls (ITGC)
+- SOX Compliance and Control Testing
+- SOC 1 and SOC 2
+- Technology Risk Management
+- Identity and Access Management (IAM)
+- Privileged Access Management (PAM)
+- Segregation of Duties (SoD)
+- Cybersecurity Governance
+- Data Protection and Information Security
+- AI Governance and Risk Management
+- Audit and Compliance Automation
 
-The project uses a structured, risk-based assessment approach:
+---
 
-1. Identify information assets and business processes.
-2. Identify threats, vulnerabilities, and associated risks.
-3. Evaluate existing security controls.
-4. Identify control gaps.
-5. Map relevant controls to selected compliance requirements.
-6. Develop prioritised remediation recommendations.
+## Cybersecurity & GRC Portfolio Projects
 
-## Compliance Areas Considered
+### 01. Botium Toys – Cybersecurity Risk and Controls Assessment
 
-- PCI DSS – Payment card data protection.
-- GDPR – Protection of personal data and privacy.
-- SOC 1 and SOC 2 – Relevant control principles relating to access, confidentiality, processing integrity, and availability.
+An educational security assessment of a fictional organisation, covering security control implementation, risk identification, compliance mapping and remediation recommendations.
 
-This is an educational mapping exercise, not a formal compliance certification or SOC audit.
+**Project deliverables:**
+- Security controls assessment
+- Risk assessment and risk identification
+- PCI DSS compliance mapping
+- GDPR compliance considerations
+- SOC-related control assessment
+- Audit findings and recommendations
+- Executive audit summary
 
-## Project Deliverables
+**Project files:**
+- [Project Overview](01-cybersecurity/botium-toys-security-audit/README.md)
+- [Risk Assessment](01-cybersecurity/botium-toys-security-audit/risk-assessment.md)
+- [Controls Assessment](01-cybersecurity/botium-toys-security-audit/controls-assessment.md)
+- [Compliance Mapping](01-cybersecurity/botium-toys-security-audit/compliance-mapping.md)
+- [Recommendations](01-cybersecurity/botium-toys-security-audit/recommendations.md)
+- [Executive Audit Summary](01-cybersecurity/botium-toys-security-audit/audit-summary.md)
 
-- Risk assessment.
-- Security controls assessment.
-- Compliance mapping.
-- Findings and recommendations.
+---
 
-## Important Disclaimer
+## Tools & Technologies
 
-This project is an independent educational simulation based on a fictional organisation. It does not represent an actual audit, professional assurance engagement, or assessment of any real company.
+- **ITSM & Governance:** ServiceNow, ITIL, SLA and KPI Management
+- **Monitoring & Observability:** Grafana, Pingdom, Application Insights
+- **Reporting & Automation:** Microsoft Excel, Power BI, Power Automate, PowerApps
+- **AI & Emerging Technologies:** Generative AI, Gemini Enterprise, AI Governance
+- **Programming & Development:** Python (Learning), GitHub
 
-## Learning Outcomes
+---
 
-This project demonstrates foundational knowledge of cybersecurity risk assessment, security controls, IT audit methodology, compliance concepts, and remediation planning.
+## Certifications & Professional Development
+
+- ITIL 4 Foundation
+- Google Generative AI Certification
+- Gemini Enterprise Deployment and Agent Development Partner Specialist
+- Cloud Technical Series – Gemini at Work
+- HP LIFE – Cybersecurity Awareness
+- Google Cybersecurity Professional Certificate – In Progress
+
+---
+
+## Current Learning & Development Goals
+
+- SOX and ITGC control testing methodologies
+- SOC 1 and SOC 2 assurance concepts
+- IT Audit and Technology Risk Management
+- IAM, PAM and access governance
+- Cybersecurity frameworks and control assessments
+- Python-based audit and compliance automation
+- AI Governance and responsible AI practices
+
+---
+
+## Professional Statement
+
+My professional objective is to combine my extensive IT operations and service delivery experience with governance, risk management, cybersecurity and audit practices.
+
+I aim to contribute to stronger control environments, effective risk management, regulatory compliance and technology governance through structured assessment, continuous improvement and automation.
+
+---
+
+## Connect With Me
+
+- **LinkedIn:** [Add your LinkedIn profile URL]
+- **GitHub:** https://github.com/Vishalovi
+
+---
+
+*Disclaimer: The projects in this repository are independent educational exercises and portfolio demonstrations. They do not contain confidential employer or client information and should not be interpreted as formal audit opinions or independent assurance reports.*
