@@ -113,7 +113,7 @@ I aim to contribute to stronger control environments, effective risk management,
 
 ## Connect With Me
 
-- **LinkedIn:** [Add your LinkedIn profile URL]
+- **LinkedIn:** www.linkedin.com/in/vishal-shaw-564090202
 - **GitHub:** https://github.com/Vishalovi
 
 ---
